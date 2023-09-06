@@ -96,7 +96,7 @@
 
 <!-- Textarea -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="textarea">Comentári</label>
+  <label class="col-md-4 control-label" for="textarea">Comentário</label>
   <div class="col-md-4">                     
     <textarea class="form-control" id="textarea" name="textarea">Digite seu Comentário</textarea>
   </div>
